@@ -16,7 +16,7 @@ Messenger bots uses a web server to process messages it receives or to figure ou
 
     ![Alt text](/demo/step1.png)
 
-2. In the app go to Messenger tab then click Setup Webhook. Here you will put in the URL of our KooKoo server https://kookoo.in/customers/fb_webhook/app.php(https://kookoo.in/customers/fb_webhook/app.php) and a verify token ( kookoo_is_the_best ). Make sure to check all the subscription fields. 
+2. In the app go to Messenger tab then click Setup Webhook. Here you will put in the URL of our KooKoo server ( https://kookoo.in/customers/fb_webhook/app.php) and a verify token ( kookoo_is_the_best ). Make sure to check all the subscription fields. 
 
     ![Alt text](/demo/step2.png)
     

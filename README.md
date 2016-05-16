@@ -1,4 +1,4 @@
-#Adapted from https://github.com/jw84/messenger-bot-tutorial
+Adapted from https://github.com/jw84/messenger-bot-tutorial
 # Creating your own FB chatbot with KooKoo
 
 ![Alt text](/demo/Demo.gif)

@@ -41,7 +41,8 @@ Messenger bots uses a web server to process messages it receives or to figure ou
 
     ```
      <?php
-        echo "<response><chat-reply>Hi,I am a messenger bot.To get more, say more or next. Or say bye to close me.</chat-reply></response>";
+        echo "<response><chat-reply>Hi,I am a messenger bot.To get more, say more or next. 
+        Or say bye to close me.</chat-reply></response>";
 
      ?>
     ```

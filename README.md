@@ -1,4 +1,5 @@
-# 🤖 Creating your own FB chatbot with KooKoo
+#Adapted from https://github.com/jw84/messenger-bot-tutorial
+# Creating your own FB chatbot with KooKoo
 
 ![Alt text](/demo/Demo.gif)
 
@@ -36,9 +37,14 @@ Messenger bots uses a web server to process messages it receives or to figure ou
       "success": true
     }
     ```
-5. Share the URL which is hosted publicly at your end which will be configured on our KooKoo Platform to recieve the events from your page to the URL,Once you do this, we will share the KooKoo tags and you can build your bot.
+5. Share the URL which is hosted publicly at your end with sample php code given below, which will be configured on our KooKoo Platform to recieve the events from your page to the URL. Once you do this you are ready with your basic working chatbot. 
 
+    ```
+     <?php
+        echo "<response><chat-reply>Hi,I am a messenger bot.To get more, say more or next. Or say bye to close me.</chat-reply></response>";
 
+     ?>
+    ```
 ## How I can help
 
 Email us for help! support@kookoo.in.

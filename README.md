@@ -37,7 +37,7 @@ Messenger bots uses a web server to process messages it receives or to figure ou
       "success": true
     }
     ```
-5. Share the URL which is hosted publicly at your end with sample php code given below, which will be configured on our KooKoo Platform to recieve the events from your page to the URL. Once you do this you are ready with your basic working chatbot. 
+5. Share the Access Token,Facebook Page id and the URL which is hosted publicly at your end with sample php code given below to support@kookoo.in along with your KooKoo username which will be configured on our KooKoo Platform to recieve the events from your page to the URL. Once you do this you are ready with your basic working chatbot. 
 
    For building complex chatbot mail us to the below email id.
 

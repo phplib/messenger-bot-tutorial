@@ -50,7 +50,9 @@ Messenger bots uses a web server to process messages it receives or to figure ou
 
      ?>
     ```
-    
+   For the Facebbook app to send messages you can also subscribe the page to your app using our KooKoo Platform,Just add the access token in the Subscribe FB page input and click the Subscribe Page button to get   
+   ```{"success": true}  ``` 
+   
     ![Alt text](/demo/step6.png) 
     
 ## How I can help
